@@ -1,0 +1,8 @@
+li.stream-item:nth-of-type(19n) > div.tweet p.js-tweet-text.tweet-text::after, li.stream-item:nth-of-type(47n) > div.tweet p.js-tweet-text.tweet-text::after,
+li.stream-item:nth-of-type(13n) > div.tweet p.js-tweet-text.tweet-text::after
+{
+font-size: small;
+font-weight: bold;
+font-family: serif;
+content: " AOI";
+}
