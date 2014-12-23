@@ -9,7 +9,11 @@ rolandizer-css
 
 This CSS file, when applied to your browser while visiting twitter.com, occasionally appends the trigram _AOI_ (rendered in stylish small-caps) after posts within your Twitter timeline.
 
-The trigram appears at a staggered rate, approximating its frequency within [the 11th century epic poem _The Song of Roland_](http://en.wikipedia.org/wiki/The_Song_of_Roland).
+The trigram appears at a staggered rate, approximating the frequency with which it shows up after lines in [the 11th century epic poem _The Song of Roland_](http://www.gutenberg.org/cache/epub/391/pg391.txt).
+
+## Example
+
+![Screenshot of the Rolandizer in action (taken December 23, 2014)](https://dl.dropboxusercontent.com/u/15528558/roladizer.png)
 
 ## Usage
 
@@ -17,6 +21,6 @@ Do whatever you need to do with your browser of choice to add the contents of `r
 
 ## Acknowledgements
 
-* [Faking randomization with nth-child](https://blog.safaribooksonline.com/2012/02/27/css-tip-faking-randomization-with-nth-child/), an article by Peter Gasston which informed a technique found in the CSS found here.
+* [Faking randomization with nth-child](https://blog.safaribooksonline.com/2012/02/27/css-tip-faking-randomization-with-nth-child/), an article by Peter Gasston which informed a technique found in the CSS used here.
 
 * Shamefully, I cannot remember who taught the multiple-semester world literature course I took at the University of Maine in the middle 1990s, but I own the _Norton_ textbook quoted above because of it.
