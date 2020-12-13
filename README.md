@@ -13,7 +13,7 @@ The trigram appears at a staggered rate, approximating the frequency with which 
 
 ## Example
 
-![Screenshot of the Rolandizer in action (taken December 23, 2014)](https://dl.dropboxusercontent.com/u/15528558/roladizer.png)
+![Screenshot of the Rolandizer in action (taken December 23, 2014)](https://jmac.org/misc/roladizer.png)
 
 ## Usage
 
